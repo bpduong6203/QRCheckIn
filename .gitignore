@@ -1,0 +1,39 @@
+# Thư mục node_modules
+node_modules/
+
+# Các file môi trường
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Thư mục và file của Expo
+.expo/
+.expo-shared/
+web-build/
+dist/
+
+# File build
+build/
+ios/build/
+android/build/
+android/app/build/
+
+# File debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# File hệ thống
+.DS_Store
+
+# File coverage
+coverage/
+
+# Các file cache
+.eslintcache
+.idea/
+.vscode/
+*.swp
+*.swo
